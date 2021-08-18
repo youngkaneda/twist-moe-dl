@@ -1,6 +1,6 @@
 # twist-moe-dl
 
-A simple java script to download anime episodes from [twist.moe](https://twist.moe).
+A simple Java script to download anime episodes from [twist.moe](https://twist.moe).
 
 ## Usage
 
